@@ -64,3 +64,6 @@ sun.addEventListener("click",()=>{
         moon.style.visibility="visible"
       }
 })
+function fun(){
+    location.href="mailto:krishnapavankumarkunisetty@gmail.com?subject=Hello&body=This is a sample email";
+}
